@@ -59,6 +59,7 @@ yyparse();
 yyerror(char*s)
 {
 }
+
 # Output
 # Result
 A YACC program to recognize a valid variable which starts with a letter followed by any number of letters or digits is executed successfully and the output is verified.
